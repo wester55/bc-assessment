@@ -1,0 +1,25 @@
+{
+  "connectivity": [
+    {
+      "url": "https://www.golegoley.com",
+      "frequency": 10
+    },
+    {
+      "url": "https://finance.yahoo.com",
+      "frequency": 20
+    }
+  ],
+  "latency": [
+    {
+      "url": "https://www.google.com",
+      "frequency": 10,
+      "max_latency": 5
+    },
+    {
+      "url": "https://finance.yahoo.com",
+      "frequency": 20,
+      "max_latency": 5
+    }
+  ],
+  "other": []
+}
